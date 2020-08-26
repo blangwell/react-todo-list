@@ -3,9 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import MyList from './MyList';
 import ListItems from './ListItems';
+import Practice from './Practice';
 import * as serviceWorker from './serviceWorker';
 
-let theList = ['cool!', 'alright!', 'cool, alright!']
+let theList = ['cool!', 'alright!', 'cool, alright!', 'abolish kenosha pd']
 
 ReactDOM.render(
   <MyList 
